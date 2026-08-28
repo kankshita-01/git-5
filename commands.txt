@@ -1,1 +1,2 @@
-push pull fetch
+hello kankshi
+give commands to type

@@ -1,2 +1,8 @@
 third line
 this line was added locally.
+1
+2
+3
+4
+5
+6
